@@ -2,6 +2,9 @@
 
 A comprehensive collection of notes, reference guides, SQL scripts, and schema design exercises covering core relational database concepts, data modeling, and performance optimization.
 
+<img width="5568" height="3132" alt="image" src="https://github.com/user-attachments/assets/01842b57-7725-48c8-bd75-3034fd078efd" />
+
+
 ## 📌 Table of Contents
 - [About the Repository](#about-the-repository)
 - [Core Topics Covered](#core-topics-covered)
